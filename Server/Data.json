@@ -1,0 +1,58 @@
+[{  
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Abilene Christian University",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Abilene Christian University1",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Abilene Christian University2",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Abilene Christian University3",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "IND",
+    "country" : "India",
+    "domain" : "anna.edu",
+    "name"   : "Anna University",
+    "web_page" : "http://www.annauniv.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "CAN",
+    "country" : "Canada",
+    "domain" : "canada.edu",
+    "name"   : "University of Canada",
+    "web_page" : "http://www.canadauniv.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "CAN",
+    "country" : "Canada",
+    "domain" : "canada.edu",
+    "name"   : "Canada International B-school",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+}
+
+]

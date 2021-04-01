@@ -1,0 +1,309 @@
+[{  
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Abilene Christian University",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Abilene Christian University1",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Abilene Christian University2",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Abilene Christian University3",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code": "IND",
+    "country": "India",
+    "domain": "annauniv.edu",
+    "name": "Anna University",
+    "descrip": "Anna University is a public state university located in Tamil Nadu, India. The main campus is in Chennai. It was originally established on 4 September 1978 and was named after C.N. Annadurai, the first Chief Minister of Tamil Nadu.",
+    "web_page": "https://www.annauniv.edu/"
+},
+{
+    "alpha_two_code" : "CAN",
+    "country" : "Canada",
+    "domain" : "canada.edu",
+    "name"   : "University of Canada",
+    "web_page" : "http://www.canadauniv.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "CAN",
+    "country" : "Canada",
+    "domain" : "canada.edu",
+    "name"   : "Canada International B-school",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "SZ",
+    "country" : "Switzerland",
+    "domain" : "Switzerland.edu",
+    "name"   : "Switzerland International B-school",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "SZ",
+    "country" : "Switzerland",
+    "domain" : "Switzer.edu",
+    "name"   : "Switzerland University",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "SZ",
+    "country" : "Switzerland",
+    "domain" : "Switzerland.edu",
+    "name"   : "Monte-carlo B-school",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "FR",
+    "country" : "France",
+    "domain" : "France.edu",
+    "name"   : "France International B-school",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "FR",
+    "country" : "France",
+    "domain" : "France.edu",
+    "name"   : "France University",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "FR",
+    "country" : "France",
+    "domain" : "France.edu",
+    "name"   : "Institue of Biology",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "UK",
+    "country" : "United Kingdom",
+    "domain" : "uk.edu",
+    "name"   : "Institue of Chemistry",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "UK",
+    "country" : "United Kingdom",
+    "domain" : "uk.edu",
+    "name"   : "Institue of Management",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "UK",
+    "country" : "United Kingdom",
+    "domain" : "uk.edu",
+    "name"   : "B-school of UK",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "CHN",
+    "country" : "China",
+    "domain" : "ch.edu",
+    "name"   : "B-school of China",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "CHN",
+    "country" : "China",
+    "domain" : "ch.edu",
+    "name"   : "China International school of science",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "CHN",
+    "country" : "China",
+    "domain" : "ch.edu",
+    "name"   : "University of China",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "JPN",
+    "country" : "Japan",
+    "domain" : "jpn.edu",
+    "name"   : "B-school of Japan",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "JPN",
+    "country" : "Japan",
+    "domain" : "jpn.edu",
+    "name"   : "Xheng International",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code" : "JPN",
+    "country" : "Japan",
+    "domain" : "jpn.edu",
+    "name"   : "Xiang Arts and Science",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "AFR",
+    "country" : "Africa",
+    "domain" : "af.edu",
+    "name"   : "South African Institute of Management",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "AFR",
+    "country" : "Africa",
+    "domain" : "af.edu",
+    "name"   : "Nairobian Institute of Management",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "AFR",
+    "country" : "Africa",
+    "domain" : "af.edu",
+    "name"   : "Nile Institute of Management",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "AUS",
+    "country" : "Australia",
+    "domain" : "aus.edu",
+    "name"   : "Australian Institute of Management",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "AUS",
+    "country" : "Australia",
+    "domain" : "aus.edu",
+    "name"   : "Sydney Institute of Management",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "AUS",
+    "country" : "Australia",
+    "domain" : "aus.edu",
+    "name"   : "Australian University",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "AUS",
+    "country" : "Australia",
+    "domain" : "aus.edu",
+    "name"   : "University of Hermatology",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code" : "AUS",
+    "country" : "Australia",
+    "domain" : "aus.edu",
+    "name"   : "B-school of Canberra",
+    "web_page" : "http://www.cibs.edu/",
+    "descrip" : "Good University"
+},{  
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Central American University",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},{  
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Central American B-school",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},{  
+    "alpha_two_code" : "US",
+    "country" : "United States",
+    "domain" : "acu.edu",
+    "name"   : "Brooklyn Institute",
+    "web_page" : "http://www.acu.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code": "IND",
+    "country": "India",
+    "domain": "annauniv.edu",
+    "name": "Sathyabhama University",
+    "descrip": "Good University",
+    "web_page": "https://www.annauniv.edu/"
+},
+{
+    "alpha_two_code" : "CAN",
+    "country" : "Canada",
+    "domain" : "canada.edu",
+    "name"   : "Canadian Republic",
+    "web_page" : "http://www.canadauniv.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code": "IND",
+    "country": "India",
+    "domain": "annauniv.edu",
+    "name": "Indian Institute of Management studies",
+    "descrip": "Good University",
+    "web_page": "https://www.annauniv.edu/"
+},
+{
+    "alpha_two_code" : "CAN",
+    "country" : "Canada",
+    "domain" : "canada.edu",
+    "name"   : "Germology school",
+    "web_page" : "http://www.canadauniv.edu/",
+    "descrip" : "Good University"
+},{
+    "alpha_two_code": "IND",
+    "country": "India",
+    "domain": "annauniv.edu",
+    "name": "Indian Institute of Management studies - Ahmedabad",
+    "descrip": "Good University",
+    "web_page": "https://www.annauniv.edu/"
+},
+{
+    "alpha_two_code" : "CAN",
+    "country" : "Canada",
+    "domain" : "canada.edu",
+    "name"   : "Germology school - ontario",
+    "web_page" : "http://www.canadauniv.edu/",
+    "descrip" : "Good University"
+},
+{
+    "alpha_two_code": "IND",
+    "country": "India",
+    "domain": "annauniv.edu",
+    "name": "Indian Institute of Management studies - Kanpur",
+    "descrip": "Good University",
+    "web_page": "https://www.annauniv.edu/"
+},
+{
+    "alpha_two_code" : "CAN",
+    "country" : "Canada",
+    "domain" : "canada.edu",
+    "name"   : "B-school of ontario",
+    "web_page" : "http://www.canadauniv.edu/",
+    "descrip" : "Good University"
+}
+]
